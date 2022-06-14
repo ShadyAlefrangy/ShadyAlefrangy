@@ -3,8 +3,8 @@
 <!-- ## Full-Stack Web Developer -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=FCB33A&lines=Pofessional+Web+Developer;Nodejs+Developer;Laravel+Developer)][linktree]
 
-[![LinkedIn Profile](https://img.shields.io/badge/FADIHANIA-Profile-0077b5?style=for-the-badge&logo=linkedin)][linkedin]
-[![Twitter Follow](https://img.shields.io/twitter/follow/fadihania?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffadihania&screen_name=fadihania)
+[![LinkedIn Profile](https://img.shields.io/badge/ShadyAlefrangy-Profile-0077b5?style=for-the-badge&logo=linkedin)][linkedin]
+[![Twitter Follow](https://img.shields.io/twitter/follow/Shady_Alefrangy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffadihania&screen_name=shadyalefrangy)
 
 Here is a professional web developer using the PHP and Nodejs programming language and the Laravel and Express framework. I can work on projects related to the web, and I always strive to keep up with modern technologies and use the latest versions in the projects I work on.
 
